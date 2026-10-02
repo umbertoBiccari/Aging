@@ -1,0 +1,34 @@
+{
+  "prepared": "2026-09-29",
+  "source_type": "Manuscript versions used for this lecture",
+  "papers": [
+    {
+      "file": "MetAgePaper_submitted.pdf",
+      "sha256": "eb7c565c5a74ca6e09dd01a26697cb3c377b806546d0e63c03fdd009f841335c"
+    },
+    {
+      "file": "SHAP_SIMODS_03.pdf",
+      "sha256": "63491c8f23d44386b4aaaf9a8b47a19b63e7202866032e83b3a28fc6cbe7a8cd"
+    }
+  ],
+  "synthetic_data": "Generated in notebook, seed 2026. No patient data used.",
+  "not_included": [
+    "patient-level study data",
+    "P1 extended data and supplementary files"
+  ],
+  "videos": [
+    "01_age_gap.mp4",
+    "02_collinearity.mp4",
+    "03_shapley_orders.mp4"
+  ],
+  "validation": {
+    "cells": 79,
+    "code_cells": 25,
+    "markdown_cells": 54,
+    "colloquium_cells": 41,
+    "execution_errors": 0,
+    "python": "3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]",
+    "html_images": 15,
+    "colloquium_html_cells": 41
+  }
+}
